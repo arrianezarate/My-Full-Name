@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\obj\Debug\Zarate Messagebox.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\obj\Debug\Zarate_Messagebox.Form1.resources
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\obj\Debug\Zarate_Messagebox.Properties.Resources.resources
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\obj\Debug\Zarate Messagebox.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\obj\Debug\Zarate Messagebox.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\bin\Debug\Zarate Messagebox.exe.config
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\bin\Debug\Zarate Messagebox.exe
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\bin\Debug\Zarate Messagebox.pdb
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\obj\Debug\Zarate Messagebox.exe
+C:\Users\USER\Desktop\COLLEGE KA GHOORL\OOP\Zarate Messagebox\obj\Debug\Zarate Messagebox.pdb
